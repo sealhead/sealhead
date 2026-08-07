@@ -24,3 +24,7 @@
   𖤝
   <a href="https://en.pronouns.page/@sealhead">pronouns</a>
 </p>
+
+<p align="center">
+<img src="https://i.postimg.cc/CLk3zBQg/tumblr-796de981227b8ca4f8c1605aa62305c8-61391950-250.webp"
+</p>
