@@ -1,4 +1,11 @@
-![](https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:+3+)
+<div align="center">
+ !wip!
+</div>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:+3+"
+</p>
 
 <p align="center">
 <picture>
