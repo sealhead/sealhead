@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:+3+"
+<img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
 </p>
 
 <p align="center">
@@ -17,8 +17,10 @@
 
  <p align="center">
   <a href="https://sealonytown.straw.page/">straw</a>
-  ·
+  𖤝
   <a href="">rentry</a>
-  ·
+  ᯓ
   <a href="https://sealhead.atabook.org">ata</a>
+  𖤝
+  <a href="https://en.pronouns.page/@sealhead">pronouns</a>
 </p>
