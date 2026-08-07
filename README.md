@@ -14,6 +14,11 @@
  <img alt="YOUR-ALT-TEXT" src="https://files.catbox.moe/s9emz8.jpg">
 </picture>
 
-<div align="center">
-[straw](https://sealonytown.straw.page/)  [rentry]()  [ata](https://sealhead.atabook.org)
-</div>
+
+ <p align="center">
+  <a href="https://sealonytown.straw.page/">straw</a>
+  ·
+  <a href="">rentry</a>
+  ·
+  <a href="https://sealhead.atabook.org">ata</a>
+</p>
