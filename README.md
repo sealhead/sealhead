@@ -14,4 +14,6 @@
  <img alt="YOUR-ALT-TEXT" src="https://files.catbox.moe/s9emz8.jpg">
 </picture>
 
+<div align="center">
 [straw]()  [rentry]()  [ata]()
+</div>
