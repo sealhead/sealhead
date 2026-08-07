@@ -15,5 +15,5 @@
 </picture>
 
 <div align="center">
-[straw]()  [rentry]()  [ata]()
+[straw](https://sealonytown.straw.page/)  [rentry]()  [ata](https://sealhead.atabook.org)
 </div>
