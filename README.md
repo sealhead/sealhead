@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
 </p>
 
-<img src="https://files.catbox.moe/sl4reo.jpg" width=400>
+<img src="https://i.postimg.cc/Njh9MMGW/IMG-1972.jpg" width=400>
 
 
  <p align="center">
