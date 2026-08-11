@@ -1,4 +1,4 @@
-<img arc="https://i.postimg.cc/NffGCDrP/IMG-1970.gif">
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NffGCDrP/IMG-1970.gif' border='0' alt='IMG-1970'></a>
 
 #
 <img src="https://i.postimg.cc/qRPnXY71/IMG-1969.gif">
