@@ -4,12 +4,12 @@
 <img src="https://i.postimg.cc/qRPnXY71/IMG-1969.gif">
 
 
+<P align="center">
+<img src="https://i.postimg.cc/Njh9MMGW/IMG-1972.jpg" WIDTH=500>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
 </p>
-
-<img src="https://i.postimg.cc/Njh9MMGW/IMG-1972.jpg" width=400>
-
 
  <p align="center">
   <a href="https://sealonytown.straw.page/">straw</a>
