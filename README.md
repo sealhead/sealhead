@@ -1,3 +1,4 @@
+<p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NffGCDrP/IMG-1970.gif' border='0' alt='IMG-1970'></a>
 
 #
