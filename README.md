@@ -12,6 +12,14 @@
 <img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
 </p>
 
+<div align="center">
+ᨒ  c+h is always welcome, mostly offtab ! ᵔᴗᵔ
+</div>
+
+ <br>
+
+
+ 
  <p align="center">
   <a href="https://sealonytown.straw.page/">straw</a>
   𖤝
