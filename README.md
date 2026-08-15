@@ -23,8 +23,6 @@
  <p align="center">
   <a href="https://sealonytown.straw.page/">straw</a>
   𖤝
-  <a href="">rentry(soon)</a>
-  ᯓ
   <a href="https://sealhead.atabook.org">ata</a>
   𖤝
   <a href="https://en.pronouns.page/@sealhead">pronouns</a>
