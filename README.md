@@ -13,13 +13,17 @@
 </p>
 
 <div align="center">
-ᨒ  c+h is always welcome, mostly offtab ! ᵔᴗᵔ
+ᨒ  c+h and interactions is always welcome, mostly offtab ! ᵔᴗᵔ 
+ 
+ please do not copy my ponies or roleplay w me
+ 
+ english is not my first language, so expect grammar mistakes !
+ 
+ pls sign ata :( pelae pls pls pls ols pls :(
 </div>
 
  <br>
 
-
- 
  <p align="center">
   <a href="https://sealonytown.straw.page/">straw</a>
   𖤝
