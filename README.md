@@ -19,7 +19,7 @@
  
  english is not my first language, so expect grammar mistakes !
  
- pls sign ata :( pelae pls pls pls ols pls :(
+ pls sign ata  pelae pls pls pls ols pls 
 </div>
 
  <br>
