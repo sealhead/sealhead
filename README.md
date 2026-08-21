@@ -6,7 +6,7 @@
 
 
 <P align="center">
-<img src="https://i.postimg.cc/Njh9MMGW/IMG-1972.jpg" WIDTH=500>
+<img src="https://files.catbox.moe/j2pfcn.jpg" width="100%">
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
@@ -25,7 +25,7 @@
  <br>
 
  <p align="center">
-  <a href="https://sealonytown.straw.page/">straw</a>
+  <a href="https://sealhead.straw.page">straw</a>
   𖤝
   <a href="https://sealhead.atabook.org">ata</a>
   𖤝
