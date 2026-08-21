@@ -9,7 +9,7 @@
 <img src="https://files.catbox.moe/j2pfcn.jpg" width="100%">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sealhead&color=8284b0&label=palomitas+:3"
+<img src="https://komarev.com/ghpvc/?username=sealhead&color=d78756&label=palomitas+:3"
 </p>
 
 <div align="center">
@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-<img src="https://i.postimg.cc/CLk3zBQg/tumblr-796de981227b8ca4f8c1605aa62305c8-61391950-250.webp"
+<img src="https://files.catbox.moe/ws4aok.gif" width="40">
 </p>
