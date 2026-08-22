@@ -15,6 +15,8 @@
 <div align="center">
 ᨒ  c+h and interactions is always welcome, mostly offtab ! ᵔᴗᵔ 
  
+ i also dont mind being friend wink wink 
+ 
  please do not copy my ponies or roleplay w me
  
  english is not my first language, so expect grammar mistakes !
