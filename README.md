@@ -9,7 +9,7 @@
 <img src="https://files.catbox.moe/j2pfcn.jpg" width="100%">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sealhead&color=d78756&label=palomitas+:3"
+<img src="https://komarev.com/ghpvc/?username=sealhead&color=d78756&label=pumpkins+:3"
 </p>
 
 <div align="center">
